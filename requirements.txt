@@ -1,0 +1,6 @@
+If your project uses packages like argparse or rich (for fancy CLI output), add:
+argparse
+rich
+
+Run:
+pip freeze > requirements.txt
