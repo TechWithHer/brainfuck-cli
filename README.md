@@ -3,6 +3,7 @@
 A minimalist yet powerful CLI-based interpreter for the [Brainfuck esoteric language](https://en.wikipedia.org/wiki/Brainfuck), built in Python. Designed to help developers understand how low-level interpreters work while offering a clean and professional tool for executing `.bf` programs.
 
 > Built with ❤️ by [Ayushi Singh](https://github.com/TechWithHer) — empowering SMEs through code, AI & automation.
+![Language](https://img.shields.io/github/languages/top/TechWithHer/brainfuck-cli)
 
 ---
 You can learn more about this from: https://ambitious-yam-b71.notion.site/What-is-Brainfuck-20bdf188b81e8050a321e6efee10ca4d?source=copy_link 
