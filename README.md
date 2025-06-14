@@ -38,6 +38,8 @@ python cli.py examples/hello_world.bf
 Example Output:
 Hello World!
 
+
+
 📥 Installation (Optional if you want to make it pip-installable)
 
 git clone git@github.com:TechWithHer/brainfuck-cli.git
